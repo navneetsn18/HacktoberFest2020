@@ -365,6 +365,25 @@
       "contributions": [
         "code"
       ]
+    }
+    {
+      "login": "insane-abhinav",
+      "name": "Abhinav kumar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/70753450?s=460&u=9c672a3c0f0f98722a5d0104602184ff81fa90a7&v=4",
+      "profile": "https://www.linkedin.com/in/abhinav-kumar-4484b91b4/",
+      "contributions": [
+        "code"
+      ]
+    }
+    },
+    {
+      "login": "insane-abhinav",
+      "name": "Abhinav kumar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/70753450?s=460&u=9c672a3c0f0f98722a5d0104602184ff81fa90a7&v=4",
+      "profile": "https://www.linkedin.com/in/abhinav-kumar-4484b91b4/",
+      "contributions": [
+        "code"
+      ]
     },
     {
       "login": "aayushi221",
@@ -422,7 +441,109 @@
       "contributions": [
         "code"
       ]
-     }
+    },
+    {
+      "login": "ANTASGUPTA",
+      "name": "ANTAS GUPTA",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35564545?v=4",
+      "profile": "https://github.com/ANTASGUPTA",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sanyammm",
+      "name": "Sanyam Sharma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/65529289?v=4",
+      "profile": "https://github.com/sanyammm",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "navneetsn18",
+      "name": "Navneet Singh Negi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/33743031?v=4",
+      "profile": "http://navneetsn18.codes",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "aniketsingh98571",
+      "name": "Aniket Singh",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/63097956?v=4",
+      "profile": "https://aniketsingh98571.github.io/Web-Portfolio/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "RishabhDevbanshi",
+      "name": "Rishabh Devbanshi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/64083218?v=4",
+      "profile": "https://github.com/RishabhDevbanshi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "parthpanchal123",
+      "name": "Parth Panchal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20091596?v=4",
+      "profile": "https://parthpanchal.me/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Ankur-S1",
+      "name": "Ankur-S1",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/65460931?v=4",
+      "profile": "https://github.com/Ankur-S1",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "HarshiniR4",
+      "name": "HarshiniR4",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59364581?v=4",
+      "profile": "https://github.com/HarshiniR4",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ArghyaBiswas0",
+      "name": "Arghya Biswas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/43907522?v=4",
+      "profile": "http://arghya.surge.sh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "parthx9",
+      "name": "Parth Arora",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42884519?v=4",
+      "profile": "https://github.com/parthx9",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rudrabarad",
+      "name": "Rudra Barad",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/53337681?s=460&u=5a0e759a1652a329777b7ac80ce271a35347d252&v=4",
+      "profile": "https://github.com/rudrabarad",
+      "contributions": [
+        "code"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "projectName": "HacktoberFest2020",
